@@ -30,8 +30,8 @@ footer {
   font-size: 5rem;
   font-weight: 700;
   height: 150px;
-  line-height: 2;
   margin: 10px;
+  padding-top: 30px;
   text-shadow: 3px 0 #DBEDF3;
   width: 150px;
 }
